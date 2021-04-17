@@ -1,0 +1,12 @@
+{
+  "name": "crd-app",
+  "displayName": "crd-app",
+  "expo": {
+    "name": "crd-app",
+    "slug": "crd-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
